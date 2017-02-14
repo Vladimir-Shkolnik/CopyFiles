@@ -1,0 +1,26 @@
+C:\Users\Vova\Desktop\CopyFiles\CopyFiles\bin\Debug\CopyFiles.exe.config
+C:\Users\Vova\Desktop\CopyFiles\CopyFiles\obj\Debug\CopyFiles.exe
+C:\Users\Vova\Desktop\CopyFiles\CopyFiles\obj\Debug\CopyFiles.pdb
+C:\Users\Vova\Desktop\CopyFiles\CopyFiles\bin\Debug\CopyFiles.exe.manifest
+C:\Users\Vova\Desktop\CopyFiles\CopyFiles\bin\Debug\CopyFiles.application
+C:\Users\Vova\Desktop\CopyFiles\CopyFiles\bin\Debug\CopyFiles.exe
+C:\Users\Vova\Desktop\CopyFiles\CopyFiles\bin\Debug\CopyFiles.pdb
+C:\Users\Vova\Desktop\CopyFiles\CopyFiles\obj\Debug\CopyFiles.Form1.resources
+C:\Users\Vova\Desktop\CopyFiles\CopyFiles\obj\Debug\CopyFiles.Properties.Resources.resources
+C:\Users\Vova\Desktop\CopyFiles\CopyFiles\obj\Debug\CopyFiles.csproj.GenerateResource.Cache
+C:\Users\Vova\Desktop\CopyFiles\CopyFiles\obj\Debug\CopyFiles.exe.manifest
+C:\Users\Vova\Desktop\CopyFiles\CopyFiles\obj\Debug\CopyFiles.application
+C:\Users\stiklover\Documents\Visual Studio 2013\Projects\CopyFiles\CopyFiles\bin\Debug\CopyFiles.exe.config
+C:\Users\stiklover\Documents\Visual Studio 2013\Projects\CopyFiles\CopyFiles\bin\Debug\CopyFiles.exe.manifest
+C:\Users\stiklover\Documents\Visual Studio 2013\Projects\CopyFiles\CopyFiles\bin\Debug\CopyFiles.application
+C:\Users\stiklover\Documents\Visual Studio 2013\Projects\CopyFiles\CopyFiles\bin\Debug\CopyFiles.exe
+C:\Users\stiklover\Documents\Visual Studio 2013\Projects\CopyFiles\CopyFiles\bin\Debug\CopyFiles.pdb
+C:\Users\stiklover\Documents\Visual Studio 2013\Projects\CopyFiles\CopyFiles\obj\Debug\CopyFiles.Form1.resources
+C:\Users\stiklover\Documents\Visual Studio 2013\Projects\CopyFiles\CopyFiles\obj\Debug\CopyFiles.Properties.Resources.resources
+C:\Users\stiklover\Documents\Visual Studio 2013\Projects\CopyFiles\CopyFiles\obj\Debug\CopyFiles.csproj.GenerateResource.Cache
+C:\Users\stiklover\Documents\Visual Studio 2013\Projects\CopyFiles\CopyFiles\obj\Debug\CopyFiles.exe.manifest
+C:\Users\stiklover\Documents\Visual Studio 2013\Projects\CopyFiles\CopyFiles\obj\Debug\CopyFiles.application
+C:\Users\stiklover\Documents\Visual Studio 2013\Projects\CopyFiles\CopyFiles\obj\Debug\CopyFiles.exe
+C:\Users\stiklover\Documents\Visual Studio 2013\Projects\CopyFiles\CopyFiles\obj\Debug\CopyFiles.pdb
+C:\Users\stiklover\Documents\Visual Studio 2013\Projects\CopyFiles\CopyFiles\obj\Debug\CopyFiles.csprojResolveAssemblyReference.cache
+C:\Users\Vova\Desktop\CopyFiles\CopyFiles\obj\Debug\CopyFiles.csprojResolveAssemblyReference.cache
